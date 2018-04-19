@@ -1,7 +1,7 @@
 # Basic
 title: F1ora
-subtitle:Life Is A Struggle
-welcome_message:溯洄从之，道阻且长。
+subtitle: Life Is A Struggle
+welcome_message: 溯洄从之，道阻且长。
 
 permalink: /:year/:month/:title/
 
@@ -9,7 +9,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
